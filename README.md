@@ -9,15 +9,15 @@ _Hello world!_
 
 # antes de começar instale as dependências e os modulos dos pacotes Front e Back - end.
 
-_before starting, let's install the dependencies and modules packages from FrontEnd and Backend packages._
+_before starting, let's install the dependencies and modules packages from FrontEnd and Backend packages_
 
-#backend
+# backend
 
 npm install package.json
 
 npm start
 
-#frontend
+# frontend
 
 npm install package.json
 
